@@ -6,6 +6,9 @@
 /* Define to 1 to enable debugging code. */
 #undef DEBUG
 
+/* Define to 1 if you have the `accept4' function. */
+#undef HAVE_ACCEPT4
+
 /* Define to 1 if you have the <arpa/inet.h> header file. */
 #undef HAVE_ARPA_INET_H
 

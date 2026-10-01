@@ -10,7 +10,7 @@ license file included in the root of this repository:
 [LICENSE\_WOLFSSL\_MICROCHIP\_v12052025.txt](LICENSE_WOLFSSL_MICROCHIP_v12052025.txt)
 
 This repository contains git tags which match the wolfSSL version mentioned in
-their name. For example, 'v5.9.2-commercial' is the wolfSSL 5.9.2 commercial
+their name. For example, 'v5.9.4-commercial' is the wolfSSL 5.9.4 commercial
 release.
 
 For a description and details on the wolfSSL SSL/TLS library, please reference
